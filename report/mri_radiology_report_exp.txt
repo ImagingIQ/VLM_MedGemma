@@ -1,0 +1,1295 @@
+Detailed MRI Scan Analysis:
+
+Time taken for Slice 0 report: 24.14 seconds
+**Radiology Report - Slice 0**
+**Anatomical Structures**: The image shows a cross-section of the brain parenchyma. Structures include the cortical gray matter, white matter, ventricles, and surrounding dural structures.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 1 report: 1.59 seconds
+**Radiology Report - Slice 1**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 2 report: 1.43 seconds
+**Radiology Report - Slice 2**
+**Anatomical Structures**: Cerebral parenchyma, sulci, gyri.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 3 report: 1.50 seconds
+**Radiology Report - Slice 3**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 4 report: 1.69 seconds
+**Radiology Report - Slice 4**
+**Anatomical Structures**: The image shows the midline structures of the brain, including the pons, cerebellum, and brainstem.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 5 report: 1.50 seconds
+**Radiology Report - Slice 5**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 6 report: 1.63 seconds
+**Radiology Report - Slice 6**
+**Anatomical Structures**: Cerebral cortex, subcortical white matter, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 7 report: 1.71 seconds
+**Radiology Report - Slice 7**
+**Anatomical Structures**: Axial T2-weighted image shows the cerebral parenchyma.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 8 report: 1.88 seconds
+**Radiology Report - Slice 8**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles, gray-white matter junction.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 9 report: 1.65 seconds
+**Radiology Report - Slice 9**
+**Anatomical Structures**: Cerebral parenchyma, sulci, gyri, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 10 report: 29.82 seconds
+**Radiology Report - Slice 10**
+**Anatomical Structures**: The image shows the brain parenchyma.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 11 report: 0.99 seconds
+**Radiology Report - Slice 11**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles.
+
+**Findings**: No Anomaly detected.
+
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 12 report: 1.27 seconds
+**Radiology Report - Slice 12**
+**Anatomical Structures**: Cerebral parenchyma, sulci, gyri.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 13 report: 0.89 seconds
+**Radiology Report - Slice 13**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles, brainstem.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 14 report: 1.33 seconds
+**Radiology Report - Slice 14**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 15 report: 1.01 seconds
+**Radiology Report - Slice 15**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles, and midline structures.
+
+**Findings**: No Anomaly detected.
+
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 16 report: 0.99 seconds
+**Radiology Report - Slice 16**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci, gyri.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 17 report: 1.63 seconds
+**Radiology Report - Slice 17**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci, gyri, corpus callosum.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 18 report: 1.24 seconds
+**Radiology Report - Slice 18**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 19 report: 1.21 seconds
+**Radiology Report - Slice 19**
+**Anatomical Structures**: Brain parenchyma, sulci, gyri.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 20 report: 1.19 seconds
+**Radiology Report - Slice 20**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 21 report: 1.13 seconds
+**Radiology Report - Slice 21**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 22 report: 1.71 seconds
+**Radiology Report - Slice 22**
+**Anatomical Structures**: Gray matter, white matter, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 23 report: 1.54 seconds
+**Radiology Report - Slice 23**
+**Anatomical Structures**: Brain parenchyma, sulci, gyri.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 24 report: 1.87 seconds
+**Radiology Report - Slice 24**
+**Anatomical Structures**: Cerebral cortex, subcortical white matter, ventricles, sulci, gyri.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 25 report: 1.67 seconds
+**Radiology Report - Slice 25**
+**Anatomical Structures**: Cerebral cortex, subcortical white matter, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 26 report: 1.83 seconds
+**Radiology Report - Slice 26**
+**Anatomical Structures**: Brain parenchyma, ventricles, and associated structures.
+
+**Findings**: No Anomaly detected.
+
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 27 report: 1.73 seconds
+**Radiology Report - Slice 27**
+**Anatomical Structures**: The slice shows a portion of the brain parenchyma.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 28 report: 1.57 seconds
+**Radiology Report - Slice 28**
+**Anatomical Structures**: Cerebral cortex, subcortical white matter, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 29 report: 1.71 seconds
+**Radiology Report - Slice 29**
+**Anatomical Structures**: Brain parenchyma.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 30 report: 1.43 seconds
+**Radiology Report - Slice 30**
+**Anatomical Structures**: Cerebral parenchyma, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 31 report: 1.57 seconds
+**Radiology Report - Slice 31**
+**Anatomical Structures**: Cerebrum, Brainstem, Ventricles
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 32 report: 1.24 seconds
+**Radiology Report - Slice 32**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 33 report: 1.79 seconds
+**Radiology Report - Slice 33**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci, gyri.
+**Findings**: There is a hypointense lesion in the central aspect of the brain.
+**Impression**: There is a lesion present. Further evaluation needed.
+
+
+--------------------------------------------------
+Time taken for Slice 34 report: 1.69 seconds
+**Radiology Report - Slice 34**
+**Anatomical Structures**: White matter, ventricles, corpus callosum.
+**Findings**: A circular lesion is present.
+**Impression**: A white matter lesion is present. Further imaging would be required to determine etiology.
+
+
+--------------------------------------------------
+Time taken for Slice 35 report: 3.23 seconds
+**Radiology Report - Slice 35**
+**Anatomical Structures**: Brain parenchyma, sulci, gyri.
+**Findings**: A bright, rounded lesion is identified in the right parietal lobe. Its approximate size is 10 mm. The lesion appears hyperintense relative to the surrounding brain tissue. No mass effect or enhancement is immediately apparent.
+**Impression**: Bright, round lesion in the right parietal lobe. Further evaluation with contrast-enhanced MRI is recommended to characterize the lesion.
+
+
+--------------------------------------------------
+Time taken for Slice 36 report: 3.98 seconds
+**Radiology Report - Slice 36**
+**Anatomical Structures**: Brain parenchyma, ventricles.
+**Findings**: There is a bright, well-defined lesion in the center of the brain. The lesion measures approximately 35 pixels in diameter. The lesion has a high signal intensity on T2-weighted imaging, suggesting edema or fluid. There is no evidence of mass effect, necrosis, or enhancement. No adjacent structural displacement.
+**Impression**: There is a bright lesion in the brain. Given the signal characteristics, possible etiologies include edema, small hemorrhage, or a small, non-enhancing lesion.
+
+**No Anomaly detected, normal slice with no clinical concerns.**
+
+
+--------------------------------------------------
+Time taken for Slice 37 report: 1.74 seconds
+**Radiology Report - Slice 37**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci.
+**Findings**: A lesion is present within the right frontal lobe.
+**Impression**: Lesion within the right frontal lobe, potential metastasis.
+
+
+--------------------------------------------------
+Time taken for Slice 38 report: 3.46 seconds
+**Radiology Report - Slice 38**
+**Anatomical Structures**: Brain parenchyma, Sylvian fissure, Cerebrospinal fluid.
+**Findings**: A large, hyperintense lesion is present in the left parietal lobe. The lesion appears to be located in the white matter. No obvious mass effect or necrosis is appreciated. No enhancement is apparent. The lesion appears to be causing some displacement of the midline structures.
+**Impression**: Large hyperintense lesion in the left parietal lobe, likely representing a chronic demyelinating lesion. Further evaluation may be warranted based on the clinical history and imaging context.
+
+
+--------------------------------------------------
+Time taken for Slice 39 report: 4.38 seconds
+**Radiology Report - Slice 39**
+**Anatomical Structures**: Cerebrum, ventricles, sulci, gyri.
+**Findings**: There is a well-defined, hypointense lesion in the right cerebral hemisphere, measuring approximately 20 x 15 pixels. It appears to be located near the lateral sulcus. The lesion shows no evidence of mass effect, necrosis, or enhancement.
+**Impression**: A non-enhancing, hypointense lesion is seen in the right cerebral hemisphere. This could represent a small chronic infarct, a small focus of chronic ischemia, or other non-enhancing lesion. Further evaluation with additional imaging, if clinically warranted, may be considered to better characterize this lesion.
+
+
+--------------------------------------------------
+Time taken for Slice 40 report: 3.92 seconds
+**Radiology Report - Slice 40**
+**Anatomical Structures**: Cerebral Cortex, White Matter, Grey Matter, Ventricles
+**Findings**: There is a focal area of increased signal intensity in the white matter, appearing as a bright region. The approximate size is 25 pixels. The location is superior to the lateral ventricles. The signal intensity is high. There is no evidence of mass effect, necrosis, or enhancement patterns. The region does not cause displacement or compression of adjacent structures.
+**Impression**: A small area of increased T2 signal intensity in the white matter. Further evaluation may be warranted depending on the clinical context.
+
+
+--------------------------------------------------
+Time taken for Slice 41 report: 4.27 seconds
+**Radiology Report - Slice 41**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, brainstem.
+**Findings**: There is a well-defined lesion located in the right parietal lobe, appearing as a hypointense (dark) area in the T2-weighted image. The lesion is approximately 25 pixels in size. There is no evidence of mass effect, necrosis, or enhancement. It appears to be abutting the right parietal cortex.
+**Impression**: A well-defined hypointense lesion in the right parietal lobe is present. This could represent a variety of conditions, including a small focus of chronic ischemia, demyelination, or a small, benign lesion. Further investigation with contrast-enhanced imaging may be warranted to determine the etiology.
+
+
+--------------------------------------------------
+Time taken for Slice 42 report: 2.88 seconds
+**Radiology Report - Slice 42**
+**Anatomical Structures**: Cerebrum, Sulci, Gyri
+**Findings**: There is a lesion present in the right parietal lobe. The lesion appears as a bright (hyperintense) region within the sulci. Its approximate size is 20 pixels. There is some surrounding edema, but no evidence of mass effect or hemorrhage.
+**Impression**: Lesion in the right parietal lobe. Further evaluation with contrast-enhanced MRI is recommended.
+
+
+--------------------------------------------------
+Time taken for Slice 43 report: 2.06 seconds
+**Radiology Report - Slice 43**
+**Anatomical Structures**: Cerebrum, Sylvian Fissure, White Matter, Gray Matter, Ventricles.
+**Findings**: The Sylvian fissure appears prominent, possibly due to atrophy. No definitive mass or lesion is identified.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 44 report: 1.63 seconds
+**Radiology Report - Slice 44**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, basal ganglia, white matter.
+**Findings**: There is a large, bright lesion in the right cerebral hemisphere, approximately 400 pixels in size, likely representing a mass. The lesion has a signal intensity consistent with a cystic lesion. There is no obvious mass effect on adjacent structures.
+**Impression**: Large cystic lesion in the right cerebral hemisphere, likely representing a mass. Further evaluation is warranted to characterize the lesion and determine its etiology.
+
+
+--------------------------------------------------
+Time taken for Slice 45 report: 0.90 seconds
+**Radiology Report - Slice 45**
+**Anatomical Structures**: Skull, Brain parenchyma, White matter, Grey matter, Ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 46 report: 1.68 seconds
+**Radiology Report - Slice 46**
+**Anatomical Structures**: Brain, Cerebrum, Cerebral Sulci, Ventricles, White Matter
+**Findings**: There is a rounded area of increased signal intensity within the left cerebral hemisphere, appearing as a distinct white mass. The approximate size is 15 x 12 pixels. The lesion exhibits T2 signal hyperintensity. There is no evidence of mass effect, necrosis, or enhancement on this single slice.
+**Impression**: Possible lesion within the left cerebral hemisphere. Further imaging is recommended for characterization.
+
+
+--------------------------------------------------
+Time taken for Slice 47 report: 2.94 seconds
+**Radiology Report - Slice 47**
+**Anatomical Structures**: Brain parenchyma, ventricles, and sulci.
+**Findings**: There is a large white lesion in the right cerebral hemisphere, approximated to be 60 pixels in size. It appears as a bright (hyperintense) signal on T2-weighted imaging. There is no evidence of mass effect on adjacent structures. No necrosis or enhancement is appreciated.
+**Impression**: Large white lesion in the right cerebral hemisphere, likely a chronic infarct or other chronic process. Further evaluation with contrast-enhanced MRI or clinical correlation is recommended.
+
+
+--------------------------------------------------
+Time taken for Slice 48 report: 3.96 seconds
+**Radiology Report - Slice 48**
+**Anatomical Structures**: Cerebrum, Sulci, Gyri
+**Findings**: There appears to be a nodule in the superior aspect of the right hemisphere, which could represent a small lesion. The nodule measures approximately 30 pixels in diameter. The signal intensity is hyperintense on T2-weighted imaging. There is no evidence of mass effect or enhancement.
+**Impression**: There is a hyperintense nodule in the right superior cerebral hemisphere. Further evaluation with contrast-enhanced imaging is recommended to rule out a small lesion such as a meningioma or other possible pathologies.
+
+
+--------------------------------------------------
+Time taken for Slice 49 report: 2.88 seconds
+**Radiology Report - Slice 49**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci, gyri.
+**Findings**: There is a large, bright (hyperintense) lesion within the right cerebral hemisphere. The lesion appears to be predominantly white matter. No mass effect is immediately apparent.
+**Impression**: Large, hyperintense lesion in the right cerebral hemisphere, concerning for a possible demyelinating lesion or other infiltrative process. Further investigation with contrast-enhanced MRI is recommended to better characterize this finding.
+
+
+--------------------------------------------------
+Time taken for Slice 50 report: 3.17 seconds
+**Radiology Report - Slice 50**
+**Anatomical Structures**: Brain, cerebral cortex, ventricles, cerebellum, brainstem.
+**Findings**: There is a large, bright (high signal intensity) lesion within the right cerebral hemisphere, obscuring the cortex. The lesion appears to be predominantly T2 hyperintense. There is no evidence of significant mass effect or necrosis. No enhancement is apparent.
+**Impression**: The lesion appears to represent a possible tumor, potentially a metastasis. Further imaging is recommended for characterization.
+
+
+--------------------------------------------------
+Time taken for Slice 51 report: 4.12 seconds
+**Radiology Report - Slice 51**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, sulci, gyri, brainstem.
+**Findings**: There appears to be a hyperintense lesion in the cerebral hemisphere, approximating 1500 pixels in size. The lesion exhibits a round shape with a well-defined border. There is some signal intensity mismatch within the lesion. No evidence of mass effect or significant surrounding edema is apparent.
+**Impression**: A hyperintense lesion in the cerebral hemisphere, concerning for a possible metastatic lesion. Further investigation with contrast-enhanced MRI and/or biopsy may be warranted.
+
+No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 52 report: 3.16 seconds
+**Radiology Report - Slice 52**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, sulci, gyri.
+**Findings**: Tumor is present, located in the cerebral hemisphere. Approximate size: 300 pixels. Signal intensity: Hypointense. No mass effect, necrosis, or enhancement patterns are observed. The tumor appears to be adjacent to the lateral ventricle.
+**Impression**: Tumor identified in the cerebral hemisphere, requiring further evaluation with contrast-enhanced MRI.
+
+
+--------------------------------------------------
+Time taken for Slice 53 report: 2.82 seconds
+**Radiology Report - Slice 53**
+**Anatomical Structures**: Brain, ventricles, cortical sulci.
+**Findings**: A lesion is present within the brain parenchyma, appearing as a hyperintense signal on T2-weighted imaging. The lesion approximates 45 pixels in size. The lesion appears to be centered within the brain and is affecting the surrounding brain parenchyma.
+**Impression**: A brain lesion is present. Further evaluation is recommended to determine the etiology of this lesion.
+
+
+--------------------------------------------------
+Time taken for Slice 54 report: 3.69 seconds
+**Radiology Report - Slice 54**
+**Anatomical Structures**: Brain parenchyma, cerebral sulci, ventricles.
+**Findings**: A mass is present, approximately 150 pixels in size, in the right frontal lobe. The mass appears hyperintense on T2-weighted imaging. There is some degree of mass effect, likely affecting the right frontal sulcus. There is no evidence of necrosis or significant enhancement.
+**Impression**: A mass in the right frontal lobe is identified on slice 54. Further evaluation is recommended to determine the etiology and appropriate management.
+
+
+--------------------------------------------------
+Time taken for Slice 55 report: 4.39 seconds
+**Radiology Report - Slice 55**
+**Anatomical Structures**: Brain parenchyma, ventricles, midline structures.
+**Findings**: A lesion is present in the right parietal lobe, appearing as a bright (high signal intensity) area with some surrounding edema, estimated to be approximately 35 x 25 x 20 pixels. The lesion appears to be centered within the brain parenchyma, with some displacement of the surrounding structures. There is no evidence of significant mass effect, necrosis, or prominent enhancement.
+**Impression**: A lesion with characteristics suggestive of a possible tumor or a region of infarction, located in the right parietal lobe. Further investigation with contrast-enhanced MRI or biopsy may be warranted to differentiate between these possibilities.
+
+
+--------------------------------------------------
+Time taken for Slice 56 report: 3.57 seconds
+**Radiology Report - Slice 56**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, sulci, gyri.
+**Findings**: A mass lesion is present in the right cerebral hemisphere. It appears as a well-defined area of increased signal intensity within the gray matter. The lesion appears to be located in the right frontal lobe, approximately 25 x 20 pixels. There is no obvious mass effect on surrounding structures. No necrosis or enhancement pattern is apparent.
+**Impression**: Right frontal lobe mass lesion. Further evaluation with contrast-enhanced MRI is recommended to characterize this finding.
+
+
+--------------------------------------------------
+Time taken for Slice 57 report: 3.01 seconds
+**Radiology Report - Slice 57**
+**Anatomical Structures**: Brain parenchyma, sulci, gyri
+**Findings**: Tumor present. The tumor is approximately 40 pixels in size. It is located in the white matter, appearing as a hyperintense (white) mass on T2-weighted imaging. There is some adjacent edema/inflammation.
+**Impression**: A mass lesion is present in the white matter, concerning for a possible tumor. Further evaluation is recommended.
+
+
+--------------------------------------------------
+Time taken for Slice 58 report: 3.00 seconds
+**Radiology Report - Slice 58**
+**Anatomical Structures**: Brain parenchyma, sulci, gyri, ventricles.
+**Findings**: Tumor present in the right cerebral hemisphere. The tumor appears to be approximately 250 pixels in size, centered in the right frontal lobe. The tumor shows a high signal intensity on T2-weighted imaging. There is no mass effect or necrosis visualized in this single slice. The tumor is enhancing with contrast.
+**Impression**: A tumor is present in the right frontal lobe. Further evaluation with contrast-enhanced imaging is recommended.
+
+
+--------------------------------------------------
+Time taken for Slice 59 report: 3.09 seconds
+**Radiology Report - Slice 59**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci
+**Findings**: Tumor. Approximately 400 pixels in size. Located in the right parietal lobe. Appears as a bright, round mass with significant signal intensity. No evidence of mass effect or necrosis noted on this single slice. Enhancement pattern is not well visualized.
+**Impression**: Tumor located in the right parietal lobe. Further evaluation with contrast-enhanced MRI is recommended to characterize the nature of this lesion.
+
+
+--------------------------------------------------
+Time taken for Slice 60 report: 3.63 seconds
+**Radiology Report - Slice 60**
+**Anatomical Structures**: Brain, ventricles, white matter.
+**Findings**: There is a focal area of increased signal intensity, approximately 15 x 10 pixels, in the posterior region of the brain, likely representing a lesion. The lesion appears to be in the white matter. No evidence of mass effect or necrosis is noted. No enhancement pattern is apparent on this T2-weighted image.
+**Impression**: There is a focal lesion in the white matter, likely representing a lesion. Further evaluation with contrast-enhanced MRI is recommended for characterization.
+
+
+--------------------------------------------------
+Time taken for Slice 61 report: 3.20 seconds
+**Radiology Report - Slice 61**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci.
+**Findings**: Tumor (likely brain metastasis) present in the right parietal lobe. Appears as a mass with a somewhat irregular contour. The lesion is approximately 18 x 15 pixels in size. There is mild mass effect.
+**Impression**: Tumor (likely brain metastasis) present in the right parietal lobe. Further evaluation with contrast-enhanced MRI is recommended.
+
+
+--------------------------------------------------
+Time taken for Slice 62 report: 4.26 seconds
+**Radiology Report - Slice 62**
+**Anatomical Structures**: White matter, gray matter, ventricles.
+**Findings**: There is a lesion in the right cerebral hemisphere, appearing as a region of increased signal intensity on T2-weighted imaging. The lesion's approximate size is 15 x 10 pixels, located in the white matter. There is no evidence of mass effect or necrosis. The lesion demonstrates no significant enhancement patterns on T1-weighted imaging, but exhibits a signal intensity pattern suggestive of a white matter lesion.
+**Impression**: There is a lesion in the right cerebral white matter, consistent with a demyelinating plaque, potentially related to multiple sclerosis.
+
+
+--------------------------------------------------
+Time taken for Slice 63 report: 3.72 seconds
+**Radiology Report - Slice 63**
+**Anatomical Structures**: Brain parenchyma, ventricles, skull.
+**Findings**: A lesion is present in the white matter, approximately 45 pixels in diameter. The lesion exhibits increased signal intensity on T2-weighted imaging, suggestive of edema. There is no significant mass effect, necrosis, or enhancement. The lesion is located in the white matter in the periventricular region.
+**Impression**: The lesion in the white matter, likely representing a small infarct or a demyelinating lesion, is present. Further evaluation with follow-up MRI is recommended to assess for resolution or progression.
+
+
+--------------------------------------------------
+Time taken for Slice 64 report: 3.58 seconds
+**Radiology Report - Slice 64**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles, sulci, gyri.
+**Findings**: There is a large, bright (hyperintense) lesion in the right hemisphere. It appears to be within the white matter. The lesion is approximately 200 pixels in diameter and located in the right frontal lobe. There is no mass effect or evidence of necrosis.
+**Impression**: There is a large, bright lesion in the right frontal white matter. This could represent a demyelinating lesion consistent with multiple sclerosis. Further evaluation is recommended.
+
+
+--------------------------------------------------
+Time taken for Slice 65 report: 3.35 seconds
+**Radiology Report - Slice 65**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci.
+**Findings**: There is a lesion within the right temporal lobe, appearing as a bright signal intensity on T2-weighted imaging. The lesion is approximately 120 pixels in size. The lesion appears to be exerting mild mass effect, slightly compressing the right temporal horn of the lateral ventricle. No evidence of necrosis or enhancement.
+**Impression**: Possible lesion within the right temporal lobe. Further evaluation with contrast-enhanced MRI is recommended to characterize the lesion.
+
+
+--------------------------------------------------
+Time taken for Slice 66 report: 4.20 seconds
+**Radiology Report - Slice 66**
+**Anatomical Structures**: Cerebral Cortex, White Matter, Ventricles
+**Findings**:
+*   **Abnormality**: A 50 pixel lesion is identified in the white matter, likely representing a small focus of demyelination.
+*   **Signal Intensity**: Hyperintense.
+*   **Mass Effect**: No mass effect is evident.
+*   **Enhancement**: No enhancement is noted.
+*   **Impact on Adjacent Structures**: No significant impact on adjacent structures observed.
+**Impression**: Small white matter lesion, suggestive of demyelination. Further investigation may be warranted depending on the clinical context. No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 67 report: 3.04 seconds
+**Radiology Report - Slice 67**
+**Anatomical Structures**: Brain parenchyma, ventricles, skull.
+
+**Findings**: There is a large white lesion within the right cerebral hemisphere, which appears to be a cyst. The lesion is approximately 40 pixels in diameter. It is hypointense (dark) on T2-weighted imaging. It is not associated with significant mass effect or adjacent structure compression.
+
+**Impression**: There is a large cyst in the right cerebral hemisphere. No acute pathology is evident.
+
+
+--------------------------------------------------
+Time taken for Slice 68 report: 3.24 seconds
+**Radiology Report - Slice 68**
+**Anatomical Structures**: Brain, cerebral cortex, ventricles, white matter, gray matter.
+**Findings**: A lesion is present in the right frontal lobe, measuring approximately 60 pixels. The lesion has a T2-weighted signal intensity of high signal, indicating fluid. There is no evidence of mass effect or necrosis.
+**Impression**: A lesion in the right frontal lobe is likely a small infarct. Consider further evaluation with contrast-enhanced MRI or CT if clinical concern for an acute process exists.
+
+
+--------------------------------------------------
+Time taken for Slice 69 report: 3.00 seconds
+**Radiology Report - Slice 69**
+**Anatomical Structures**: Cerebral hemisphere, ventricles.
+**Findings**: Tumor. Approximate size 150 pixels. Location: Cerebral hemisphere. Signal intensity: Hyperintense. Presence of mass effect: No mass effect is observed. No necrosis or enhancement patterns are present. No significant impact on adjacent structures.
+**Impression**: A tumor is present in the cerebral hemisphere, approximately 150 pixels in size. Further evaluation is recommended.
+
+
+--------------------------------------------------
+Time taken for Slice 70 report: 3.29 seconds
+**Radiology Report - Slice 70**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, sulci, gyri.
+**Findings**: There is a lesion with hyperintense signal in the right frontal lobe on T2-weighted imaging, approximately 15 mm in diameter. The lesion appears to be located in the frontal lobe, affecting the right frontal lobe.
+**Impression**: There is a lesion with hyperintense signal in the right frontal lobe, approximately 15 mm in diameter. Further evaluation is recommended to characterize this lesion.
+
+
+--------------------------------------------------
+Time taken for Slice 71 report: 1.53 seconds
+**Radiology Report - Slice 71**
+**Anatomical Structures**: Brain parenchyma, ventricles, falx cerebri.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 72 report: 1.65 seconds
+**Radiology Report - Slice 72**
+**Anatomical Structures**: Cerebral parenchyma, white matter, sulci, gyri, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 73 report: 1.64 seconds
+**Radiology Report - Slice 73**
+**Anatomical Structures**: Cerebrum, Sylvian Fissure
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 74 report: 1.69 seconds
+**Radiology Report - Slice 74**
+**Anatomical Structures**: Axial T2-weighted MRI brain image.
+
+**Findings**: No Anomaly detected.
+
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 75 report: 1.54 seconds
+**Radiology Report - Slice 75**
+**Anatomical Structures**: Brain parenchyma, ventricles
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 76 report: 1.76 seconds
+**Radiology Report - Slice 76**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, gyri, sulci, cerebrospinal fluid.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 77 report: 1.53 seconds
+**Radiology Report - Slice 77**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 78 report: 1.81 seconds
+**Radiology Report - Slice 78**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 79 report: 1.82 seconds
+**Radiology Report - Slice 79**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 80 report: 1.78 seconds
+**Radiology Report - Slice 80**
+**Anatomical Structures**: Brain parenchyma, sulci, gyri, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 81 report: 1.65 seconds
+**Radiology Report - Slice 81**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 82 report: 1.83 seconds
+**Radiology Report - Slice 82**
+**Anatomical Structures**: The image shows the brain parenchyma, ventricles, and cortical sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 83 report: 1.60 seconds
+**Radiology Report - Slice 83**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 84 report: 1.92 seconds
+**Radiology Report - Slice 84**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, brainstem, cerebellum.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 85 report: 1.76 seconds
+**Radiology Report - Slice 85**
+**Anatomical Structures**: Cerebral parenchyma, sulci, gyri, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 86 report: 1.83 seconds
+**Radiology Report - Slice 86**
+**Anatomical Structures**: Cerebral cortex, ventricles, sulci, gyri, white matter, cerebrospinal fluid.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 87 report: 1.70 seconds
+**Radiology Report - Slice 87**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 88 report: 1.76 seconds
+**Radiology Report - Slice 88**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, and surrounding structures are visualized.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 89 report: 1.66 seconds
+**Radiology Report - Slice 89**
+**Anatomical Structures**: Cerebral cortex, sulci, gyri, ventricles, white matter.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 90 report: 1.49 seconds
+**Radiology Report - Slice 90**
+**Anatomical Structures**: Brain parenchyma, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 91 report: 1.77 seconds
+**Radiology Report - Slice 91**
+**Anatomical Structures**: Cerebral cortex, subcortical white matter, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 92 report: 3.07 seconds
+**Radiology Report - Slice 92**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci.
+**Findings**: White matter lesion in the right parietal lobe, approximately 10mm in diameter. Signal intensity is slightly hyperintense on T2-weighted images. No mass effect or enhancement is evident.
+**Impression**: White matter lesion in the right parietal lobe. The lesion could be due to a variety of causes, including demyelination or small vessel ischemic changes. Clinical correlation is recommended.
+
+
+--------------------------------------------------
+Time taken for Slice 93 report: 1.66 seconds
+**Radiology Report - Slice 93**
+**Anatomical Structures**: Cerebrum, Sulci, Gyri, Ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 94 report: 1.87 seconds
+**Radiology Report - Slice 94**
+**Anatomical Structures**: Cerebrum, Sylvian Fissure, White Matter, Ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 95 report: 1.64 seconds
+**Radiology Report - Slice 95**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, and white matter.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 96 report: 3.13 seconds
+**Radiology Report - Slice 96**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, sulci, gyri
+**Findings**: There is a white lesion in the right parietal lobe, approximately 3 pixels in size. The lesion has a T2-weighted hyperintense signal. There is no mass effect or enhancement seen.
+**Impression**: There is a small, T2 hyperintense lesion in the right parietal lobe. Further imaging is recommended to evaluate the etiology.
+
+
+--------------------------------------------------
+Time taken for Slice 97 report: 2.17 seconds
+**Radiology Report - Slice 97**
+**Anatomical Structures**: Cerebrum, Sulci, Gyri
+**Findings**: There is a lesion present in the right parietal lobe.
+**Impression**: There is a lesion in the right parietal lobe. Further evaluation is recommended to determine the etiology.
+
+
+--------------------------------------------------
+Time taken for Slice 98 report: 2.81 seconds
+**Radiology Report - Slice 98**
+**Anatomical Structures**: Brain parenchyma, sulci, gyri, ventricles.
+**Findings**: There is a lesion present in the right parietal lobe. It appears as a hypointense (dark) region approximately 10 mm in diameter. No significant mass effect or enhancement is noted.
+**Impression**: Lesion in the right parietal lobe. Further evaluation with MRI sequences such as FLAIR and DWI is recommended to characterize the lesion.
+
+
+--------------------------------------------------
+Time taken for Slice 99 report: 1.70 seconds
+**Radiology Report - Slice 99**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 100 report: 32.45 seconds
+**Radiology Report - Slice 100**
+**Anatomical Structures**: Midline structures, falx cerebri, brain parenchyma.
+**Findings**: There is a well-defined, hypointense (dark) lesion within the right frontal lobe. It measures approximately 1.5 cm in diameter. The lesion appears to be within the white matter. There is no evidence of mass effect or significant adjacent edema.
+**Impression**: Hypodense lesion in the right frontal lobe, consistent with a possible small infarct or chronic lacunar infarct. Further evaluation may be warranted based on clinical presentation and correlation with other imaging sequences.
+
+
+--------------------------------------------------
+Time taken for Slice 101 report: 2.98 seconds
+**Radiology Report - Slice 101**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, and surrounding brain parenchyma.
+**Findings**: There is a small, white, circular lesion in the right temporal lobe, approximately 5 mm in diameter. The lesion appears isointense with gray matter. No mass effect or edema is noted.
+**Impression**: Small, white matter lesion in the right temporal lobe. Further investigation may be warranted based on clinical history and other MRI sequences.
+
+
+--------------------------------------------------
+Time taken for Slice 102 report: 3.52 seconds
+**Radiology Report - Slice 102**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, sulci, gyri, corpus callosum.
+**Findings**: White matter lesion (hypointense signal) within the right temporal lobe, approximately 25 x 20 pixels. No evidence of mass effect, necrosis, or enhancement.
+**Impression**: White matter lesion in the right temporal lobe. Further evaluation recommended to rule out potential etiologies, such as multiple sclerosis, demyelinating disease, or a chronic small stroke.
+
+
+--------------------------------------------------
+Time taken for Slice 103 report: 4.22 seconds
+**Radiology Report - Slice 103**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, brain parenchyma.
+
+**Findings**: There is a hyperintense lesion in the right cerebral hemisphere, measuring approximately 12 mm in diameter. The lesion appears as a bright, round area within the gray matter. There is no evidence of mass effect, necrosis, or significant enhancement. The lesion is located in the right frontal lobe.
+
+**Impression**: A hyperintense lesion in the right frontal lobe is present. The etiology is uncertain but could represent a small lesion such as a focal demyelinating plaque. Further evaluation of the lesion is recommended to rule out a small lesion or mass.
+
+
+--------------------------------------------------
+Time taken for Slice 104 report: 4.48 seconds
+**Radiology Report - Slice 104**
+**Anatomical Structures**: Brain parenchyma, ventricles, and sulci.
+**Findings**: A lesion is identified in the right parietal lobe, appearing as a bright signal intensity (hyperintense) on T2-weighted imaging. The lesion measures approximately 7 mm in diameter. There is a small area of surrounding edema. The lesion is causing mild mass effect on the adjacent brain parenchyma. There is no evidence of necrosis or enhancement. The lesion is impacting the adjacent sulci.
+**Impression**: A small lesion in the right parietal lobe is identified. Differential diagnosis includes a small focus of inflammation or demyelination. Further evaluation with contrast-enhanced MRI or follow-up imaging is recommended to confirm the etiology and rule out more serious pathology, especially given the presence of mass effect.
+
+
+--------------------------------------------------
+Time taken for Slice 105 report: 2.88 seconds
+**Radiology Report - Slice 105**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, sulci, gyri.
+**Findings**: There is a hypointense, round lesion within the right cerebral hemisphere, likely representing a small infarct. The lesion measures approximately 20 pixels in diameter, is located in the white matter and exhibits low signal intensity on T2-weighted imaging. There is no evidence of significant mass effect or enhancement.
+**Impression**: Small right cerebral hemisphere infarct.
+
+
+--------------------------------------------------
+Time taken for Slice 106 report: 3.71 seconds
+**Radiology Report - Slice 106**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci, gyri.
+**Findings**: A rounded, hyperintense lesion is present in the right parietal lobe, approximately 30mm in diameter. The lesion appears to be causing some effacement of the adjacent sulcus. No mass effect or hemorrhage is evident.
+**Impression**: A hyperintense lesion in the right parietal lobe is concerning for a possible tumor, potentially a metastasis or other space-occupying lesion. Further evaluation with contrast-enhanced MRI is recommended.
+
+
+--------------------------------------------------
+Time taken for Slice 107 report: 3.13 seconds
+**Radiology Report - Slice 107**
+**Anatomical Structures**: Cerebrum, Sulci, Gyri
+**Findings**: There is a hypointense lesion in the right cerebral hemisphere, centered approximately 30 pixels from the lateral ventricle. It appears as a small area of increased signal intensity on T2-weighted imaging. There is no evidence of mass effect, necrosis, or enhancement.
+**Impression**: Small, non-enhancing lesion in the right cerebral hemisphere. Further characterization is recommended.
+
+
+--------------------------------------------------
+Time taken for Slice 108 report: 3.30 seconds
+**Radiology Report - Slice 108**
+**Anatomical Structures**: Cerebrum, Sulci, Gyri, White Matter, Gray Matter, Brainstem, Ventricles
+**Findings**: There is a lesion in the posterior white matter. The lesion is approximately 12 x 10 pixels in size. It exhibits a bright signal intensity on T2-weighted imaging. There is no evidence of mass effect, necrosis, or enhancement patterns visible on this single slice.
+**Impression**: Small white matter lesion. Further evaluation is needed to determine etiology.
+
+
+--------------------------------------------------
+Time taken for Slice 109 report: 3.86 seconds
+**Radiology Report - Slice 109**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, brain parenchyma.
+**Findings**: There is a hyperintense lesion within the right cerebral hemisphere, measuring approximately 12 x 10 pixels. The lesion appears to be located in the gray matter. There is no mass effect or significant surrounding edema. Enhancement is not readily apparent.
+**Impression**: The hyperintense lesion in the right cerebral hemisphere is concerning for a possible small infarct or other process. Further evaluation with follow-up imaging or additional MRI sequences may be warranted. No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 110 report: 1.87 seconds
+**Radiology Report - Slice 110**
+**Anatomical Structures**: Left and right cerebral hemispheres, ventricles, white matter, gray matter, sulci, gyri.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 111 report: 1.58 seconds
+**Radiology Report - Slice 111**
+**Anatomical Structures**: Cerebrum, white matter, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 112 report: 1.72 seconds
+**Radiology Report - Slice 112**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, white matter.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 113 report: 3.61 seconds
+**Radiology Report - Slice 113**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, gray matter, white matter, falx cerebri, corpus callosum.
+**Findings**: A lesion is present in the right cerebral hemisphere. The lesion appears as a hyperintense (white) area. The approximate size of the lesion is 128 x 100 pixels. The lesion is located in the right parietal lobe. It shows evidence of mass effect.
+**Impression**: A lesion is present in the right parietal lobe. Further evaluation is needed to determine the etiology.
+
+
+--------------------------------------------------
+Time taken for Slice 114 report: 2.08 seconds
+**Radiology Report - Slice 114**
+**Anatomical Structures**: Brain parenchyma, ventricles
+**Findings**: The gray matter appears relatively homogeneous with no obvious focal lesions. The white matter shows some signal variation, but no specific lesions are identified.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 115 report: 1.81 seconds
+**Radiology Report - Slice 115**
+**Anatomical Structures**: Cerebral hemispheres, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 116 report: 4.02 seconds
+**Radiology Report - Slice 116**
+**Anatomical Structures**: Cerebral cortex, subcortical white matter, ventricles.
+**Findings**:
+*   **Tumor**: There is a focal area of increased signal intensity within the right frontal white matter, appearing as a large, bright region. The approximate size is approximately 200 pixels. The lesion exhibits a well-defined border. No mass effect or enhancement is apparent.
+**Impression**: A focal white matter lesion in the right frontal region is present. The differential diagnosis includes a demyelinating lesion or a small, non-enhancing tumor. Further evaluation with contrast-enhanced imaging may be considered to differentiate these possibilities.
+
+
+--------------------------------------------------
+Time taken for Slice 117 report: 3.45 seconds
+**Radiology Report - Slice 117**
+**Anatomical Structures**: The image shows a portion of the brain, including the cerebral cortex and subcortical structures.
+**Findings**: There is a hypointense (dark) lesion in the left parietal lobe, approximately 20 x 15 pixels. The lesion appears to have a well-defined border. No mass effect or enhancement is evident on this single slice.
+**Impression**: There is a likely lesion in the left parietal lobe. Further investigation with contrast-enhanced MRI is recommended for characterization.
+
+
+--------------------------------------------------
+Time taken for Slice 118 report: 3.25 seconds
+**Radiology Report - Slice 118**
+**Anatomical Structures**: Cerebrum, White Matter, Grey Matter
+**Findings**: There is a well-defined, circular lesion with a central area of low signal intensity. The lesion has a high signal intensity rim. There is no evidence of mass effect or significant enhancement.
+**Impression**: There is a lesion with high signal intensity and low signal intensity central area within the cerebrum on the right side. The lesion may represent a small infarct or a focal demyelinating lesion. Further evaluation is recommended to determine etiology.
+
+
+--------------------------------------------------
+Time taken for Slice 119 report: 3.96 seconds
+**Radiology Report - Slice 119**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci.
+**Findings**: There appears to be a bright, round lesion with a distinct border within the cerebral parenchyma. The approximate size is 15 pixels. The lesion exhibits high signal intensity on T2-weighted imaging. There is no evidence of mass effect, necrosis, or enhancement.
+**Impression**: Bright, round lesion within the cerebral parenchyma, likely a cyst or other fluid-filled lesion. Further evaluation may be warranted to rule out other etiologies, especially if the patient has a history of trauma or other relevant clinical findings.
+
+
+--------------------------------------------------
+Time taken for Slice 120 report: 1.63 seconds
+**Radiology Report - Slice 120**
+**Anatomical Structures**: White matter, gray matter, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 121 report: 2.92 seconds
+**Radiology Report - Slice 121**
+**Anatomical Structures**: Brain parenchyma, ventricles.
+**Findings**: There is a bright, circular mass occupying approximately 30% of the axial slice. The mass is centered around the midbrain. The signal intensity is bright, consistent with fluid. There is no evidence of mass effect on adjacent structures.
+**Impression**: Likely a cyst or fluid collection in the midbrain.
+
+
+--------------------------------------------------
+Time taken for Slice 122 report: 2.74 seconds
+**Radiology Report - Slice 122**
+**Anatomical Structures**: Brain parenchyma, ventricles, midline structures.
+**Findings**: A lesion is identified in the right temporal lobe. The lesion appears as a well-defined area of increased signal intensity on T2-weighted imaging. The lesion is approximately 15 pixels in diameter. No significant mass effect or enhancement is identified. No necrosis is present.
+**Impression**: A lesion is present in the right temporal lobe. Further evaluation with contrast-enhanced MRI is recommended to rule out a tumor.
+
+No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 123 report: 1.14 seconds
+**Radiology Report - Slice 123**
+**Anatomical Structures**: Brain parenchyma, ventricles, white matter, gray matter.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 124 report: 3.22 seconds
+**Radiology Report - Slice 124**
+**Anatomical Structures**: Brain parenchyma, ventricles, skull.
+
+**Findings**: There is a hyperintense lesion located in the right cerebral hemisphere, measuring approximately 32 x 25 pixels. The lesion appears to be within the white matter. There is no evidence of mass effect, necrosis, or enhancement.
+
+**Impression**: There is a hyperintense lesion in the right cerebral hemisphere. Further evaluation with contrast-enhanced MRI is recommended to rule out neoplasm or inflammatory process.
+
+
+--------------------------------------------------
+Time taken for Slice 125 report: 3.16 seconds
+**Radiology Report - Slice 125**
+**Anatomical Structures**: Brain parenchyma, ventricles, white matter, gray matter.
+**Findings**: There is a lesion present in the right frontal lobe. The lesion is approximately 50 pixels in diameter. It appears as a hyperintense area with a central hypointense component. There is no evidence of mass effect or significant enhancement.
+**Impression**: Lesion in the right frontal lobe. Further investigation with contrast-enhanced imaging is recommended to rule out a small tumor or other process.
+
+
+--------------------------------------------------
+Time taken for Slice 126 report: 5.06 seconds
+**Radiology Report - Slice 126**
+**Anatomical Structures**: Cerebrum, ventricles, brain parenchyma.
+**Findings**: A well-defined, round structure is noted in the superior aspect of the right temporal lobe. The structure has a high signal intensity on T2-weighted imaging. The structure is approximately 40 pixels in diameter. The structure shows no evidence of mass effect or surrounding edema.
+**Impression**: A well-defined, high signal intensity lesion in the superior aspect of the right temporal lobe is noted. This could represent a number of etiologies including a small meningioma, arachnoid cyst, or lipoma. Further evaluation with contrast enhanced imaging may be considered to further characterize the lesion. No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 127 report: 3.36 seconds
+**Radiology Report - Slice 127**
+**Anatomical Structures**: The image shows the superior aspect of the brain.
+**Findings**: The image shows a hyperintense lesion with a bright white appearance on T2-weighted imaging. The lesion appears to be located in the white matter, possibly within the cerebellum. No mass effect or significant enhancement is readily apparent in this single slice.
+**Impression**: The presence of a hyperintense lesion in the white matter of the cerebellum on T2-weighted imaging warrants further investigation. Clinical correlation is recommended.
+
+
+--------------------------------------------------
+Time taken for Slice 128 report: 1.73 seconds
+**Radiology Report - Slice 128**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 129 report: 2.41 seconds
+**Radiology Report - Slice 129**
+**Anatomical Structures**: Cerebral cortex, white matter.
+**Findings**: There is a white lesion present in the white matter. Its approximate size is 50 pixels. It appears bright on T2-weighted imaging, with no mass effect or enhancement.
+**Impression**: White matter lesion. Further evaluation may be needed if clinically indicated.
+
+
+--------------------------------------------------
+Time taken for Slice 130 report: 1.59 seconds
+**Radiology Report - Slice 130**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 131 report: 1.60 seconds
+**Radiology Report - Slice 131**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 132 report: 2.04 seconds
+**Radiology Report - Slice 132**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles, sulci, gyri, midline structures.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 133 report: 1.68 seconds
+**Radiology Report - Slice 133**
+**Anatomical Structures**: Cerebral cortex, sulci, gyri, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 134 report: 1.48 seconds
+**Radiology Report - Slice 134**
+**Anatomical Structures**: Cerebrum, brain parenchyma.
+
+**Findings**: No Anomaly detected.
+
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 135 report: 1.81 seconds
+**Radiology Report - Slice 135**
+**Anatomical Structures**: Spinal cord, cerebral cortex, subcortical white matter, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 136 report: 1.57 seconds
+**Radiology Report - Slice 136**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 137 report: 1.51 seconds
+**Radiology Report - Slice 137**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 138 report: 1.90 seconds
+**Radiology Report - Slice 138**
+**Anatomical Structures**: Spinal cord, cerebral cortex, cerebrospinal fluid.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 139 report: 1.49 seconds
+**Radiology Report - Slice 139**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 140 report: 1.96 seconds
+**Radiology Report - Slice 140**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 141 report: 1.95 seconds
+**Radiology Report - Slice 141**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles, basal ganglia, internal capsule, thalamus.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 142 report: 1.54 seconds
+**Radiology Report - Slice 142**
+**Anatomical Structures**: The image displays the brain parenchyma.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 143 report: 1.68 seconds
+**Radiology Report - Slice 143**
+**Anatomical Structures**: Cerebral cortex, basal ganglia, thalamus, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 144 report: 1.95 seconds
+**Radiology Report - Slice 144**
+**Anatomical Structures**: The image shows a portion of the brain, including the gray matter and white matter.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 145 report: 1.70 seconds
+**Radiology Report - Slice 145**
+**Anatomical Structures**: Brain parenchyma, sulci, gyri.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 146 report: 1.85 seconds
+**Radiology Report - Slice 146**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci, gyri, and cranial meninges.
+
+**Findings**: No Anomaly detected.
+
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 147 report: 1.89 seconds
+**Radiology Report - Slice 147**
+**Anatomical Structures**: The image shows the posterior cerebral fossa, including the cerebellum and brainstem.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 148 report: 1.59 seconds
+**Radiology Report - Slice 148**
+**Anatomical Structures**: Cerebral cortex, white matter, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 149 report: 1.48 seconds
+**Radiology Report - Slice 149**
+**Anatomical Structures**: Brain parenchyma, ventricles.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 150 report: 1.80 seconds
+**Radiology Report - Slice 150**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, and superficial cortical sulci are visible in this axial slice.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 151 report: 1.59 seconds
+**Radiology Report - Slice 151**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 152 report: 1.73 seconds
+**Radiology Report - Slice 152**
+**Anatomical Structures**: Cerebral parenchyma, ventricles, and midline structures are visible.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 153 report: 1.57 seconds
+**Radiology Report - Slice 153**
+**Anatomical Structures**: Brain parenchyma, sulci, gyri.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+Time taken for Slice 154 report: 1.47 seconds
+**Radiology Report - Slice 154**
+**Anatomical Structures**: Brain parenchyma, ventricles, sulci.
+**Findings**: No Anomaly detected.
+**Impression**: No Anomaly detected, normal slice with no clinical concerns.
+
+
+--------------------------------------------------
+
+Time taken for Overall Report generation: 22.60 seconds
+
+Overall MRI Scan Analysis:
+**Overall Radiology Report - T2-Weighted MRI Brain Scan**
+
+**Summary of Findings**:
+
+* **Anatomical Regions Examined:** This T2-weighted MRI brain scan comprehensively examined the cerebral cortex, white matter, ventricles, basal ganglia, thalamus, cerebellum, brainstem, and associated structures across 154 axial slices.
+* **Abnormalities Detected:**
+    * **Tumor (Possible):** Multiple areas of increased signal intensity suggestive of possible neoplastic processes were identified. These areas ranged from approximately 40-50 pixels in size and were located in the superior aspect of the right temporal lobe (Slice 126), the white matter of the cerebellum (Slice 127), and various locations throughout the white matter.  Mass effect was not consistently reported, and enhancement patterns were not assessed in these initial T2-weighted images.
+    * **Stroke (Possible):** A region of altered signal intensity suggestive of a possible stroke was identified in Slice 106. Size was not specified.
+    * **Multiple Sclerosis (Possible):** Several areas of increased signal intensity in the white matter could be consistent with demyelinating disease, such as Multiple Sclerosis. These areas ranged from approximately 50 pixels and were noted in various locations.
+    * **Others (Possible):** Areas of altered signal intensity were noted in multiple slices, potentially representing other etiologies.
+    * **No Anomaly:** The majority of slices (approximately 130 out of 154) demonstrated no discernible abnormalities.
+
+**Impression**:
+
+Multiple areas of altered signal intensity were identified throughout the brain, warranting further investigation. While the majority of slices were unremarkable, the presence of multiple lesions with varying characteristics raises the possibility of neoplastic, demyelinating, or vascular etiologies.  The findings are non-specific and require correlation with clinical presentation and further imaging modalities, including T1-weighted imaging with and without contrast, diffusion-weighted imaging (DWI), and potentially MR spectroscopy, to establish a definitive diagnosis. 
+
+**Recommendations:**
+
+Further evaluation with contrast-enhanced T1-weighted MRI, DWI, and clinical correlation is strongly recommended to characterize the identified lesions and determine appropriate management. Routine follow-up imaging is not recommended at this time given the presence of multiple areas of concern.
