@@ -104,7 +104,7 @@ except Exception as e:
     print("Ensure Ollama server is running with the specified model.")
     exit(1)
 
-# Load and preprocess all slices from the NIfTI file
+#  Load and preprocess all slices from the NIfTI file
 nii_path = "data/BraTS-MET-00008-000-seg.nii"
 try:
     plot_slices, vlm_images, slice_indices, nii_shape = load_and_preprocess_nii_slices(nii_path, axis=2, subsample_step=None)
